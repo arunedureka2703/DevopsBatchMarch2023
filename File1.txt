@@ -11,3 +11,7 @@ Enter invalid username
 Enter invalid password
 Click on submit
 user should not be allowed to login to the application
+
+enter blank value in the file
+click on submit button
+Error message should get displayed
