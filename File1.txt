@@ -1,0 +1,6 @@
+Welcome to edureka
+Test case for login functionality
+
+Enter username
+Enter password
+click submit
