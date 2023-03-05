@@ -4,3 +4,10 @@ Test case for login functionality
 Enter username
 Enter password
 click submit
+
+
+
+Enter invalid username
+Enter invalid password
+Click on submit
+user should not be allowed to login to the application
