@@ -17,5 +17,11 @@ click on submit button
 Error message should get displayed
 
 
+
 #%#%%%%^#%^#%^##%%^#%^^%#%#%#%^#%#%^^##^%#
 special charcter
+
+enter some special character
+click on login
+error message gets displayed for "Invalid characters"
+
