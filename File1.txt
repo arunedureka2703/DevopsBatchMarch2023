@@ -15,3 +15,7 @@ user should not be allowed to login to the application
 enter blank value in the file
 click on submit button
 Error message should get displayed
+
+
+#%#%%%%^#%^#%^##%%^#%^^%#%#%#%^#%#%^^##^%#
+special charcter
